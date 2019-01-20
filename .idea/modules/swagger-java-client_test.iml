@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="swagger-java-client:test" external.linked.project.path="C:/Work/Java/java-client-generated" external.root.project.path="C:/Work/Java/java-client-generated" external.system.id="GRADLE" external.system.module.group="io.swagger" external.system.module.type="sourceSet" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output-test url="file://C:/Work/Java/java-client-generated/out/test/classes" />
+    <exclude-output />
+    <content url="file://C:/Work/Java/java-client-generated/src/test">
+      <sourceFolder url="file://C:/Work/Java/java-client-generated/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="swagger-java-client_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="swagger-java-client_main" />
+</module>

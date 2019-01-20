@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="com.fasterxml-aalto-xml-0.9.10">
+    <CLASSES>
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml-aalto-xml-0.9.10.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml.jackson.core-jackson-annotations-2.7.8.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml.jackson.core-jackson-core-2.7.8.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml.jackson.core-jackson-databind-2.7.8.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml.jackson.dataformat-jackson-dataformat-xml-2.7.8.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/com.fasterxml.jackson.module-jackson-module-jaxb-annotations-2.7.8.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/commons-codec-commons-codec-1.9.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/commons-io-commons-io-2.4.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/commons-logging-commons-logging-1.2.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.commons-commons-lang3-3.3.2.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.httpcomponents-httpclient-4.2.6.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.httpcomponents-httpcore-4.2.5.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.olingo-odata-client-api-4.5.0.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.olingo-odata-client-core-4.5.0.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.olingo-odata-client-proxy-4.5.0.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.olingo-odata-commons-api-4.5.0.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.apache.olingo-odata-commons-core-4.5.0.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.codehaus.woodstox-stax2-api-3.1.4.jar!/" />
+      <root url="jar://C:/Work/Java/Olingo-OData-Client-for-Java-4.5.0-lib/org.slf4j-slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
